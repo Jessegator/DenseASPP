@@ -39,7 +39,7 @@ Here is the results of DenseASPP on Wizemann Horse dataset
 | :---------: | :-----------------: | :-----: | :---: | :----------: | :----------------------------------------------------------: |
 | DenseNet121 | ASPP(6, 12, 18, 24) |  10.2M  | 91.0% |    75.2%     | [Baidu Netdisk(password:2022)](https://pan.baidu.com/s/1ikRL5MeQFY2l_wZGvDmmsw) |
 
-Note that to reproduce the results reported in table, make sure use the splits I have provided in the dataset file, which are train_list.txt and test_list.txt, consisting of names of images for training and testing, respectively.)
+Note that to reproduce the results reported in the table, make sure use the splits I have provided in the dataset file, which are train_list.txt and test_list.txt, consisting of names of images for training and testing, respectively.)
 
 
 
