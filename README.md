@@ -22,8 +22,6 @@ $PATH_TO_DATASET/
 │    ├──── horse (327 images)
 │    ├──── mask (327 images)
 
-3. 
-
 
 
 ## Inference
