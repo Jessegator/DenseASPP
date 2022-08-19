@@ -1,9 +1,8 @@
 # DenseASPP
-# DenseASPP
 
 ------
 
-<img src="network.png" alt="network" style="zoom:70%;" />
+<img src="network.png" alt="network" style="zoom:50%;" />
 
 ![network](network.png)
 
