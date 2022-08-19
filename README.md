@@ -5,11 +5,6 @@ This repository includes the pytorch implementation of [DenseASPP for Semantic S
 ![results1](results1.png)
 ![](results2.png)
 
-<img src="network.png" alt="network" style="zoom:25%;" />
-
-
-
-
 
 
 ## Prepare Your Data
