@@ -2,11 +2,9 @@
 
 ------
 
-<img src="network.png" alt="network" style="zoom:50%;" />
-
+<img src="network.png" alt="network" style="zoom:40%;" />
 ![network](network.png)
 
-![](network.png)
 
 
 
