@@ -1,6 +1,7 @@
 # DenseASPP
 
 ------
+This repository includes the pytorch implementation of [DenseASPP for Semantic Segmentation in Street Scenes](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf). Experiments are conducted on [Wiezmann Horse](https://www.kaggle.com/datasets/ztaihong/weizmann-horse-database/metadata) Dataset.
 
 <img src="network.png" alt="network" style="zoom:25%;" />
 
@@ -8,7 +9,7 @@
 
 
 
-This repository includes the pytorch implementation of [DenseASPP for Semantic Segmentation in Street Scenes](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf). Experiments are conducted on [Wiezmann Horse](https://www.kaggle.com/datasets/ztaihong/weizmann-horse-database/metadata) Dataset.
+
 
 ## Prepare Your Data
 
