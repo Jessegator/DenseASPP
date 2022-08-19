@@ -14,10 +14,12 @@ This repository includes the pytorch implementation of [DenseASPP for Semantic S
 
 2. The final path structure used in my code looks like this:
 
+```
 $PATH_TO_DATASET/
 ├──── weizmann_horse_db
 │    ├──── horse (327 images)
 │    ├──── mask (327 images)
+```
 
 
 
