@@ -34,6 +34,7 @@ python main.py --phase='eval'
 Please note that
 
 - Store the weights in the folder named "pretrained". Link to the pretrained weights is provided in the table below. You could download the file and move it to the corresponding directory(which I mean store it in the folder "pretrained")
+- to reproduce the results reported in the table, make sure use the splits I have provided in the dataset file, which are train_list.txt and test_list.txt, consisting of names of images for training and testing, respectively.)
 
 Here is the results of DenseASPP on Wizemann Horse dataset
 
@@ -41,7 +42,6 @@ Here is the results of DenseASPP on Wizemann Horse dataset
 | :---------: | :-----------------: | :-----: | :---: | :----------: | :----------------------------------------------------------: |
 | DenseNet121 | ASPP(6, 12, 18, 24) |  10.2M  | 91.0% |    75.2%     | [Baidu Netdisk(password:2022)](https://pan.baidu.com/s/1ikRL5MeQFY2l_wZGvDmmsw) |
 
-Note that to reproduce the results reported in the table, make sure use the splits I have provided in the dataset file, which are train_list.txt and test_list.txt, consisting of names of images for training and testing, respectively.)
 
 
 
