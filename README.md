@@ -3,11 +3,11 @@
 
 ------
 
-<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20220820052008804.png" alt="image-20220820052008804" style="zoom:70%;" />
+<img src="network.png" alt="network" style="zoom:70%;" />
 
-![image-20220820042253259](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20220820042253259.png)
+![network](network.png)
 
-![](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20220820042159169.png)
+![](network.png)
 
 
 
