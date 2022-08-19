@@ -26,7 +26,7 @@ $PATH_TO_DATASET/
 
 ## Inference
 
-Run the following command to do inference of IndexNet Matting/Deep Matting on the Adobe Image Matting dataset:
+Run the following command to do inference of DenseASPP on Wiezmann Horse dataset:
 
 ```
 python main.py --phase='eval'
@@ -34,7 +34,7 @@ python main.py --phase='eval'
 
 Please note that
 
-- Save the weights under 
+- Store the weights in the folder named "pretrained". Link to the pretrained weights is provided in the table below. You could download the file and move it to the corresponding directory(which I mean store it in the folder "pretrained")
 
 Here is the results of DenseASPP on Wizemann Horse dataset
 
