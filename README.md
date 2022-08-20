@@ -49,7 +49,7 @@ Here is the results of DenseASPP on Wizemann Horse dataset(Please see visualizat
 ## Training
 
 
-Run the following command to DenseASPP:
+Run the following command to train DenseASPP:
 
 ```
 python main.py --phase='train'
