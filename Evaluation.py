@@ -1,5 +1,5 @@
-import matplotlib.pyplot as plt
 import torch
+import matplotlib.pyplot as plt
 from utils import Adder, get_miou, get_biou
 
 def evaluation(args, model, test_loader):
