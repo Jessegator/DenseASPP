@@ -6,6 +6,7 @@ def evaluation(args, model, test_loader):
 
     state = torch.load(args.load)
     model.load_state_dict(state['model'])
+    model = model.to(args.device)
 
     mIoU = Adder()
     bIoU = Adder()
@@ -21,6 +22,8 @@ def evaluation(args, model, test_loader):
 
             outputs = outputs.cpu().squeeze()
             outputs = torch.argmax(outputs,dim=0)
+            
+            print('name_id')
             fig = plt.figure(figsize=(12, 8))
             plt.subplot(1, 3, 1), plt.imshow(img.squeeze()), plt.axis('off')
             plt.title('Original')
