@@ -33,7 +33,7 @@ python main.py --phase='eval'
 
 Please note that
 
-- Store the weights in the folder named "pretrained". Link to the pretrained weights is provided in the table below. You could download the file and move it to the corresponding directory(which I mean store it in the folder "pretrained")
+- Store the weights in the folder named "pretrained". Link to the pretrained weights is provided in the table below. You could download the file and move it to the corresponding directory.
 - to reproduce the results reported in the table, make sure use the splits I have provided in the dataset file, which are train_list.txt and test_list.txt, consisting of names of images for training and testing, respectively.)
 
 Here is the results of DenseASPP on Wizemann Horse dataset(Please see [visualization.ipynb](https://github.com/JesseL10/DenseASPP/blob/main/visualization.ipynb) for more details)
@@ -55,4 +55,4 @@ Run the following command to train DenseASPP:
 python main.py --phase='train'
 ```
 
-- I randomly shuffle the dataset for training and testing: 85% for training and 15% for testing. You can do that in whatever way you like, but make sure you keep them in forms that are consistent with what I have done to train_list.txt and test_list.txt.
+- I randomly shuffle the dataset for training and testing: 85% for training and 15% for testing. You can choose different split standards, but make sure you keep them in forms that are consistent with train_list.txt and test_list.txt.
